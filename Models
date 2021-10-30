@@ -4,5 +4,7 @@ VGG19
 Resnet20
 Resnet50
 FaceNet
+Inceptionv3
 VGGFace
 DeepFace
+Lenet-5
